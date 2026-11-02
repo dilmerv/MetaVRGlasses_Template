@@ -391,6 +391,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3572171986124155052, guid: dc29a1b9eef1f684dac4d51fc9295eea, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3572171986124155053, guid: dc29a1b9eef1f684dac4d51fc9295eea, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.021
+      objectReference: {fileID: 0}
+    - target: {fileID: 3572171986124155053, guid: dc29a1b9eef1f684dac4d51fc9295eea, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.608
+      objectReference: {fileID: 0}
     - target: {fileID: 4332174686188342381, guid: dc29a1b9eef1f684dac4d51fc9295eea, type: 3}
       propertyPath: m_Name
       value: SmallRoomEnvironment
